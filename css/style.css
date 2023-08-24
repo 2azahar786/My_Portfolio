@@ -417,3 +417,9 @@ body {
   font-size: 15px;
   font-weight: bold;
 }
+
+.icon{
+  height: 25px;
+  width: 25px;
+  border-radius: 12px;
+}
